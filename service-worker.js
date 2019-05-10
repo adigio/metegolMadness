@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/metegolMadness/precache-manifest.6b366d5ef35094f1d60855fa95d853dc.js"
+  "/metegolMadness/precache-manifest.d15b9c28f8150b28b6486d69befd0c08.js"
 );
 
 workbox.clientsClaim();
