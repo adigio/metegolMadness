@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "01357ad8b470466e1f66",
+    "revision": "416f4dbf4efdba7e1fff",
     "url": "/metegolMadness/static/css/main.05d7f8c7.chunk.css"
   },
   {
-    "revision": "01357ad8b470466e1f66",
-    "url": "/metegolMadness/static/js/main.01357ad8.chunk.js"
+    "revision": "416f4dbf4efdba7e1fff",
+    "url": "/metegolMadness/static/js/main.416f4dbf.chunk.js"
   },
   {
     "revision": "317bc4f418e5a950413e",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/metegolMadness/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "5b2fce2c3c5c9c5d5d948a55f2f3043c",
+    "revision": "520d4eb9373205c849d85754ea50d5a4",
     "url": "/metegolMadness/index.html"
   }
 ];
